@@ -43,5 +43,5 @@ This portfolio project demonstrates the effective utilization of data to derive 
 
 ## Connect With Me
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/ayush013/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Nayak-blue?logo=linkedin)](https://www.linkedin.com/in/ayush013/)**
 
